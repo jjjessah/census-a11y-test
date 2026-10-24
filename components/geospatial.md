@@ -3,6 +3,9 @@ layout: default
 title: Geospatial Visualizations
 permalink: /components/geospatial.html
 ---
+**[← Home](/census-a11y-test/)** | **[Section 508 Requirements](/census-a11y-test/foundations/508.html)** | **[Comparison Specs](/census-a11y-test/components/comparison.html)** | **Geospatial Specs**
+
+***
 
 # Geospatial Visualizations (Thematic & Choropleth Maps)
 
