@@ -4,3 +4,4 @@ Welcome to the Census Accessibility Test site. Use the links below to navigate o
 
 * [Section 508 Data Visualization Requirements](/census-a11y-test/foundations/508.html)
 * [Comparison Component Specifications](/census-a11y-test/components/comparison.html)
+* [Geospatial Component Specifications](/census-a11y-test/components/geospatial.html)
