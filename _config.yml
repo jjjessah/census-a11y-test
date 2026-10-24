@@ -1,1 +1,7 @@
-theme: jekyll-theme-cayman
+title: Census Bureau Visualization Guide
+description: Section 508 and Statistical Quality Standards Framework
+remote_theme: just-the-docs/just-the-docs
+
+# Fixes relative asset loading on GitHub Pages project directories
+baseurl: "/census-a11y-test"
+url: "https://jjjessah.github.io"
