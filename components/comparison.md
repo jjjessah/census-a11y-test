@@ -3,6 +3,9 @@ layout: default
 title: Comparison Visualizations
 permalink: /components/comparison.html
 ---
+**[← Home](/census-a11y-test/)** | **[Section 508 Requirements](/census-a11y-test/foundations/508.html)** | **Comparison Specs** | **[Geospatial Specs](/census-a11y-test/components/geospatial.html)**
+
+***
 
 # Comparison Visualizations (Bar Charts & Line Graphs)
 
