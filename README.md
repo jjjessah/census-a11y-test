@@ -1,7 +1,9 @@
-## Project Documentation & Guidelines
+---
+layout: home
+title: Home
+nav_order: 1
+---
 
-Welcome to the Census Accessibility Test site. Use the links below to navigate our core compliance documentation framework:
+# Home
 
-* [Section 508 Data Visualization Requirements](/census-a11y-test/foundations/508.html)
-* [Comparison Component Specifications](/census-a11y-test/components/comparison.html)
-* [Geospatial Component Specifications](/census-a11y-test/components/geospatial.html)
+Welcome to the Census Accessibility Test site. Use the left-hand sidebar navigation pane to explore our core compliance documentation framework.
