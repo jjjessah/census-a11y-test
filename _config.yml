@@ -8,6 +8,6 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
-# Set up routing structures
+# Set up routing structures (CRITICAL: Do not use trailing slashes here)
 baseurl: "/census-a11y-test"
 url: "https://your-username.github.io"
